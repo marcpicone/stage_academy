@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mon premier quiz</string>
+    <string name="welcome_title">Mon premier quiz</string>
+    <string name="welcome_message">Bienvenue ! Ici, nous allons construire notre quiz pas à pas.</string>
+</resources>

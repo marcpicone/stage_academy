@@ -1,0 +1,17 @@
+# Gradle et fichiers générés
+.gradle/
+.kotlin/
+**/build/
+
+# Configuration propre à chaque ordinateur
+local.properties
+.idea/
+*.iml
+.DS_Store
+
+# Clés et configuration de signature
+*.jks
+*.keystore
+keystore.properties
+
+# Le wrapper Gradle (dont gradle-wrapper.jar) doit rester versionné.
