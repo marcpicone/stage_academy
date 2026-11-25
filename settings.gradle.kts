@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "StageAcademy"
-include(":app")
+include(":app", ":shared", ":desktop")

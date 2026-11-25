@@ -2,6 +2,7 @@
 .gradle/
 .kotlin/
 **/build/
+server/data/
 
 # Configuration propre à chaque ordinateur
 local.properties
